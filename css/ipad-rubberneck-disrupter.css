@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'pwrubberneck';
+    src: url('../font/pwrubberneck.ttf') format('truetype'),
+         url('../font/pwrubberneck.svg#pwrubberneck') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#loginform input#user_pass {
+	font-family: 'pwrubberneck';
+	letter-spacing: 2px;
+	line-height: 1.4;
+}
